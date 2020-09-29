@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pablo Araújo</h1>
-<h2>Black Lives Live Matter :fist_raised: :black_heart:</h2>
+<h2>Black Lives Live Matter :fist_raised: :black_heart: </h2>
 <h3 align="center">I am a full stack developer with a focus on front end currenty work with Angular, .NET, SASS, Jenkins, Testing, and some freelancers projects using WordPress/VueJS.<br>
   I have a bachelor's degree in Internet Systems and Technical Course in Web Design.</h3>
 
