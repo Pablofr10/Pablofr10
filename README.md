@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Araújo</h1>
 <h2>Programming changed my life! :fist_raised: :black_heart: </h2>
-<p font size="5">I am a full stack developer with a focus on front end currenty work with Angular, .NET, SASS, Jenkins, Testing, and some freelancers projects using WordPress/VueJS. I have a bachelor's degree in Information Systems and Technical Course in Web Design.</p>
-
-- 🌱 I’m currently learning **VueJS, Nuxt, UX/UI Design**
-
-- 📝 I regulary write articles on [Medium](Medium)
-
-- 📫 How to reach me **pablorf.araujo@gmail.com**
+<p font size="5">I am a full stack developer with a focus on front end currenty work with VueJS with TypeScript, .NET, Azure, SASS, Testing, and some freelancers projects using WordPress/VueJS. I have a bachelor's degree in Information Systems and Technical Course in Web Design.</p>
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
