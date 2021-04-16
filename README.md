@@ -5,8 +5,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <img src="./icons/javascript.png" width="50" title="JavaScript">
-    <img src="./icons/css3.png" width="50" title="CSS3">
-    <img src="./icons/html5.png" width="50" title="HTML5">
+    <img src="./icons/css3.svg" width="50" title="CSS3">
+    <img src="./icons/html5.svg" width="50" title="HTML5">
     <img src="./icons/typescript.png" width="50" title="TypeScript">
     <img src="./icons/csharp.svg" width="50" title="CSharp">
     <img src="./icons/dotnetcore.svg" width="50" title="DotNet">
