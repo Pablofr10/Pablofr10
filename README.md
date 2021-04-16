@@ -4,8 +4,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-![VueJS](icons/vuejs.svg)
-    <img src="./icons/vuejs.svg">
-    <img src="icons/vuejs.svg">
+    <img src="./icons/vuejs.svg" width="350" title="VueJS">
 
  </p>
