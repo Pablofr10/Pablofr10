@@ -1,30 +1,20 @@
-<h1 align="center">Hi, Welcome! 👋, I'm Pablo Araújo</h1>
-<h2>Programming changed my life! :fist_raised: :black_heart: </h2>
-<p font size="5">I am a full stack developer currenty work with VueJS with TypeScript, .NET, Azure, SASS, Testing, and some freelancers projects using React/Flutter. I have a bachelor's degree in Information Systems, a Technical Course in Web Design and actualy studying Mobile Development in my MASTER Degree.</p>
+# Hi, Welcome! 👋, I'm Pablo Araújo
+
+👋 Hello there! I'm a passionate full-stack developer with expertise in Vue.js with TypeScript, .NET, Azure, SASS, and Testing. With a strong educational background, including a bachelor's degree in Information Systems, a Technical Course in Web Design, and an MBA in Mobile Development, I am currently pursuing a post-graduation in software architecture at PUC Minas.
+
+🎥 On my YouTube channel, I love teaching code and sharing my knowledge with the development community. Join me on this exciting journey of learning and growth!
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@PabloCodess)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablocodes/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zkW3QNcdPw)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablofr10&theme=tokyonight)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <img src="./icons/javascript.png" width="50" title="JavaScript">
-    <img src="./icons/css3.svg" width="50" title="CSS3">
-    <img src="./icons/html5.svg" width="50" title="HTML5">
-    <img src="./icons/typescript.png" width="50" title="TypeScript">
-    <img src="./icons/csharp.svg" width="50" title="CSharp">
-    <img src="./icons/dotnetcore.svg" width="50" title="DotNet">
-    <img src="./icons/vuejs.svg" width="50" title="VueJS">
-    <img src="./icons/react.png" width="50" title="ReactJS">
-    <img src="./icons/nextjs.svg" width="50" title="NextJS">
-    <img src="./icons/vuejs.svg" width="50" title="VueJS">
-    <img src="./icons/azure.svg" width="50" title="Azure">
-    <img src="./icons/webpack.svg" width="50" title="WebPack">
-    <img src="./icons/sass.svg" width="50" title="SASS">
-    <img src="./icons/git.svg" width="50" title="Git">
-    <img src="./icons/gitlab.svg" width="50" title="GitLab">
-    <img src="./icons/dart.svg" width="50" title="Dart">
-    <img src="./icons/flutter.svg" width="50" title="Flutter">
-    <img src="./icons/sqlserver.svg" width="50" title="SqlServer">
-    <img src="./icons/postgresql.svg" width="50" title="PostgreSql">
-    <img src="./icons/moodle.svg" width="50" title="Moodle">
-    <img src="./icons/jenkins.svg" width="50" title="Jenkins">
- </p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vue,vite,nuxtjs,dotnet" />
+  </a>
+</p>
+
+
