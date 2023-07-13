@@ -8,9 +8,6 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablocodes/)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zkW3QNcdPw)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pablofr10&theme=tokyonight)
-
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,vue,vite,nuxtjs,dotnet" />
